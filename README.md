@@ -41,7 +41,7 @@ I also take on **freelance projects**, helping startups and small companies buil
 ### 📬 Let's connect
 
 <p align="left">
-  <a href="https://nicolascaliaridev.netlify.app/" target="_blank">
+  <a href="https://nicolascaliaril.vercel.app/?lang=en" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:nicolascaliari28@gmail.com">
