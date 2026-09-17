@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicolás Caliari 👋</h1>
-<h3 align="center">Backend & DevOps Engineer 🇵🇱</h3>
+<h3 align="center">Backend & DevOps Engineer 🇦🇷 🇵🇱</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+NestJS+%2B+TypeScript;DevOps+%7C+Kubernetes+%2B+ArgoCD;Building+scalable+systems+from+Gda%C5%84sk" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About me
 
-I'm a **Backend and DevOps Engineer** with 2+ years of professional experience building scalable APIs and managing cloud-native infrastructure.
+I'm a **Backend and DevOps Engineer** with 3+ years of professional experience building scalable APIs and managing cloud-native infrastructure.
 
 I currently work at **Teknos Technology Group**, where I:
 - 🧩 Develop microservices with **NestJS** and **TypeScript**
